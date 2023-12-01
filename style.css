@@ -1,0 +1,88 @@
+body{
+    background-image: url(black_00070.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.c-btn {
+    -webkit-appearance: none;
+    appearance: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40px;
+    padding: 0;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    background: gray;
+    cursor: pointer;
+}
+/* ボタンにカーソルが乗ったときに色が変わる。 */
+.c-btn:hover {
+    background-color:darkgray;
+}
+.p-quiz {
+    width: 600px;
+    margin: 300px auto;
+    text-align: center;
+}
+.p-quiz-ttl{
+    margin: 0 0 20px;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+}
+.p-quiz-sub-ttl{
+    margin: 0 0 20px;
+    font-size: 20px;
+    font-weight: normal;
+    /* text-align: center; */
+}
+h2{
+    /* width: 1000px; */
+    text-align: left;
+}
+
+.p-quiz-next {
+    width: 300px;
+    margin: auto;
+}
+.p-quiz-choices {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* margin: 20px; */
+    padding-left: 0;
+}
+.p-quiz-choices__item {
+    width: calc(50% - 20px);
+    list-style: none;
+    margin: 7px;
+}
+.Twitter{
+    margin-top: 80px;
+}
+#name{
+    width:300px;
+}
+#written{
+    margin-left:10px;
+/*     background-color:; */
+    color: white;
+    background-color:gray;
+    border: none;
+    cursor: pointer;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:10px;
+}
+#written:hover{
+    background-color:darkgray;
+}

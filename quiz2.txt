@@ -1,0 +1,260 @@
+{
+	"quiz": [
+		{
+			"q": "とくせい：Intimidate",
+			"q2": "効果 : The Pokémon intimadates oppsing Pokémon upon entering battle, lowering their Attack stat.",
+			"a": "いかく",
+			"correct": 1,
+			"commentary": "正解はいかくで、登場時に相手のポケモンの攻撃を1段階下げる特性。"
+		}, {
+			"q": "とくせい : Levitate",
+			"q2": "効果 : By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+			"a": "ふゆう",
+			"correct": 4,
+			"commentary": "正解はふゆうで、じめんタイプの技が当たらない特性。"
+		}, {
+			"q": "とくせい : Disguise",
+			"q2": "効果 : Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+			"a": "ばけのかわ",
+			"correct": 2,
+			"commentary": "正解はばけのかわで、相手の攻撃をバトル中1度だけ身代わりが守ってくれる特性。"
+		}, {
+			"q": "とくせい : Imposter",
+			"q2": "効果 : The Pokémon transforms itself into the Pokémon it's facing.",
+			"a": "かわりもの",
+			"correct": 1,
+			"commentary": "正解はかわりもので、登場時に相手のポケモンにへんしんするとくせい。"
+		}, {
+			"q": "とくせい : Prankster",
+			"q2": "効果 : Gives priority to a status move.",
+			"a": "いたずらごころ",
+			"correct": 1,
+			"commentary": "正解はいたずらごころで、変化技を先制で打てるとくせい。"
+		}, {
+			"q": "とくせい : Mold Breaker",
+			"q2": "効果 : Moves can be used on the target regardless of its Abilities.     ※Abilityは特性",
+			"a": "かたやぶり",
+			"correct": 2,
+			"commentary": "正解はかたやぶりで、攻撃中、相手のとくせいを無視するとくせい。"
+		}, {
+			"q": "とくせい : Stance Change",
+			"q2": "効果 : The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King's Shield.",
+			"a": "バトルスイッチ",
+			"correct": 4,
+			"commentary": "正解はバトルスイッチ。"
+		}, {
+			"q": "とくせい : Prankster",
+			"q2": "効果 : Gives priority to a status move.",
+			"a": "いたずらごころ",
+			"correct": 1,
+			"commentary": "正解はいたずらごころで、変化技を先制で打てるとくせい。"
+		}, {
+			"q": "とくせい : Hustle",
+			"q2": "効果 : Boosts the Attack stat, but lowers accuracy.",
+			"a": "はりきり",
+			"correct": 3,
+			"commentary": "正解ははりきりで攻撃をあげるが、命中率が下がるとくせい。"
+		}, {
+			"q": "とくせい : Sturdy",
+			"q2": "効果 : It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either.",
+			"a": "がんじょう",
+			"correct": 1,
+			"commentary": "正解はがんじょうで、一撃必殺技が効かずにどんな攻撃も耐えるとくせい。"
+		}, {
+			"q": "とくせい : Flame Body",
+			"q2": "効果 : Contact with the Pokémon may burn the attacker.",
+			"a": "ほのおのからだ",
+			"correct": 1,
+			"commentary": "直接攻撃を受けたときに相手をやけど状態にさせるかもしれないとくせい。"
+		}, {
+			"q": "とくせい : Wonder Guard",
+			"q2": "効果 : Its mysterious power only lets supereffective moves hit the Pokémon.",
+			"a": "ふしぎなまもり",
+			"correct": 1,
+			"commentary": "正解はふしぎなまもりで、効果抜群しか効かなくなるとくせい。"
+		}, {
+			"q": "とくせい : Technician",
+			"q2": "効果 : Powers up Pokémon's weaker moves.",
+			"a": "テクニシャン",
+			"correct": 1,
+			"commentary": "正解はテクニシャンで、弱い技の威力が上がるとくせい。"
+		}, {
+			"q": "とくせい : Multiscale",
+			"q2": "効果 : Reduces the amount of damage the Pokémon takes while its HP is full.",
+			"a": "マルチスケイル",
+			"correct": 1,
+			"commentary": "正解はマルチスケイルで、HPが満タンの時、受けるダメージを減らすとくせい。"
+		}, {
+			"q": "とくせい : Flash Fire",
+			"q2": "効果 : Powers up the Pokémon's Fire-type moves if it's hit by one.",
+			"a": "もらいび",
+			"correct": 1,
+			"commentary": "正解はもらいびで、相手のほのお技を受けると、ダメージを受けずに自分のほのお技の威力を上げるとくせい。"
+		}, {
+			"q": "とくせい : Thick Fat",
+			"q2": "効果 : The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
+			"a": "あついしぼう",
+			"correct": 1,
+			"commentary": "正解はあついしぼうで、受けるほのお技とこおり技の威力を半減するとくせい。"
+		}, {
+			"q": "とくせい : Speed Boost",
+			"q2": "効果 : Its Speed stat is boosted every turn.",
+			"a": "かそく",
+			"correct": 1,
+			"commentary": "正解はかそくで、毎ターン自分のすばやさが上がるとくせい。"
+		}, {
+			"q": "とくせい : Moody",
+			"q2": "効果 : Raises one stat sharply and lowers another every turn.",
+			"a": "ムラっけ",
+			"correct": 1,
+			"commentary": "正解はムラっけで、毎ターン自分のどれか一つの能力を2段階上げ、それ以外のどれか一つの能力を1段階下げるとくせい。"
+		}, {
+			"q": "とくせい : Magic Bounce",
+			"q2": "効果 : Reflects status moves instead of getting hit by them.           ※status movesは変化技という意味。",
+			"a": "マジックミラー",
+			"correct": 1,
+			"commentary": "正解はマジックミラーで、相手が自分に変化技を打ってきたときに、自分が受ける代わりに相手に跳ね返すとくせい。"
+		}, {
+			"q": "とくせい : No Guard",
+			"q2": "効果 : The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.",
+			"a": "ノーガード",
+			"correct": 1,
+			"commentary": "正解はノーガードで、お互いに技が必ず当たるようになるとくせい。"
+		}, {
+			"q": "とくせい : Drought",
+			"q2": "効果 : Turns the sunlight harsh when the Pokémon enters a battle.",
+			"a": "ひでり",
+			"correct": 1,
+			"commentary": "正解はひでりで、登場したときに、天候をひざしが強い状態にするとくせい。"
+		}, {
+			"q": "とくせい : Regenerator",
+			"q2": "効果 : Restores a little HP when withdrawn from battle.",
+			"a": "さいせいりょく",
+			"correct": 1,
+			"commentary": "正解はさいせいりょくで、バトルからひっこめると、HPが少し回復するとくせい。"
+		}, {
+			"q": "とくせい : Pixilate",
+			"q2": "効果 : Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.",
+			"a": "フェアリースキン",
+			"correct": 1,
+			"commentary": "正解はフェアリースキンで、ノーマル技をフェアリー技にし、さらに威力を少し上げるとくせい。"
+		}, {
+			"q": "とくせい : Libero",
+			"q2": "効果 : Changes the Pokémon's type to the type of the move it's about to use.",
+			"a": "リベロ",
+			"correct": 1,
+			"commentary": "正解はリベロで、自分が技を出す時にその技と同じタイプになるとくせい。"
+		}, {
+			"q": "とくせい : Blaze",
+			"q2": "効果 : Powers up Fire-type moves when the Pokémon's HP is low.",
+			"a": "もうか",
+			"correct": 1,
+			"commentary": "正解はもうかで、HPが少なくなった時に自分のほのお技の威力が上がるとくせい。"
+		}, {
+			"q": "とくせい : Defiant",
+			"q2": "効果 : Boosts the Pokémon's Attack stat sharply when its stats are lowered.",
+			"a": "まけんき",
+			"correct": 1,
+			"commentary": "正解はまけんきで、自分の能力が下がると、こうげきが2段階上がるとくせい。"
+		}, {
+			"q": "とくせい : Competitive",
+			"q2": "効果 : Boosts the Pokémon's Sp.Atk stat sharply when a stats is lowered.   ※Sp.Atkはとくこう。",
+			"a": "かちき",
+			"correct": 1,
+			"commentary": "正解はかちきで、自分の能力が下がると、とくこうが2段階上がるとくせい。"
+		}, {
+			"q": "とくせい : Swift Swim",
+			"q2": "効果 : Boosts the Pokémon's Speed stat in rain.",
+			"a": "すいすい",
+			"correct": 1,
+			"commentary": "正解はすいすいで、天候が雨の時にすばやさが2倍になるとくせい。"
+		}, {
+			"q": "とくせい : Adaptability",
+			"q2": "効果 : Powers up moves of the same type as the Pokémon.",
+			"a": "てきおうりょく",
+			"correct": 1,
+			"commentary": "正解はてきおうりょくで、自分と同じタイプの技の威力を2倍にするとくせい。"
+		}, {
+			"q": "とくせい : Clear Body",
+			"q2": "効果 : Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
+			"a": "クリアボディ",
+			"correct": 1,
+			"commentary": "正解はクリアボディで、自分の能力が下げられないとくせい。"
+		}, {
+			"q": "とくせい : Sand Stream",
+			"q2": "効果 : The Pokémon summons a sandstorm when it enters a battle.",
+			"a": "すなおこし",
+			"correct": 1,
+			"commentary": "正解はすなおこしで、登場時に天候をすなあらし状態にとくせい。"
+		}, {
+			"q": "とくせい : Gluttony",
+			"q2": "効果 : Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual.",
+			"a": "くいしんぼう",
+			"correct": 1,
+			"commentary": "正解はくいしんぼうで、きのみを普通のポケモンより早く食べるとくせい。"
+		}, {
+			"q": "とくせい : Illusion",
+			"q2": "効果 : comes out disguised as the Pokémon in the party's last spot.",
+			"a": "イリュージョン",
+			"correct": 1,
+			"commentary": "正解はイリュージョンで、手持ちの一番後ろのポケモンに化けて登場するとくせい。"
+		}, {
+			"q": "とくせい : Beast Boost",
+			"q2": "効果 : The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+			"a": "ビーストブースト",
+			"correct": 1,
+			"commentary": "正解はビーストブーストで、相手のポケモンを倒したときに自分の一番高い能力値が上がるとくせい。"
+		}, {
+			"q": "とくせい : Torrent",
+			"q2": "効果 : Powers up Wate-type moves when the Pokémon's HP is low.",
+			"a": "げきりゅう",
+			"correct": 1,
+			"commentary": "正解はげきりゅうで、HPが少なくなった時に水技の威力が上がるとくせい。"
+		}, {
+			"q": "とくせい : Huge Power",
+			"q2": "効果 : Doubles the Pokémon's Attack stat.",
+			"a": "ちからもち",
+			"correct": 1,
+			"commentary": "正解はちからもちで、自分の物理技の威力をを2倍にするとくせい。"
+		}, {
+			"q": "とくせい : Skill Link",
+			"q2": "効果 : Maximizes the number of times multistrike moves hit..",
+			"a": "スキルリンク",
+			"correct": 1,
+			"commentary": "正解はスキルリンクで、連続技が必ず最大数当たるとくせい。"
+		}, {
+			"q": "とくせい : Inner Focus",
+			"q2": "効果 : The Pokémon intensely focused, and that protects the Pokémon from flinching.",
+			"a": "クリアボディ",
+			"correct": 1,
+			"commentary": "正解はせいしんりょくで、ひるまないとくせい。"
+		}, {
+			"q": "とくせい : Marvel scale",
+			"q2": "効果 : The Pokémon's marvelous scales boost the Defense stat if it has a status condition.",
+			"a": "ふしぎなうろこ",
+			"correct": 1,
+			"commentary": "正解はふしぎなうろこで、自分の能力が下げられないとくせい。"
+		}
+	],
+	"rank": [
+		{
+            "count": 5,
+            "page": "result01.html"
+        }, {
+            "count": 4,
+            "page": "result02.html"
+        }, {
+            "count": 3,
+            "page": "result03.html"
+        }, {
+            "count": 2,
+            "page": "result04.html"
+        }, {
+            "count": 1,
+            "page": "result05.html"
+        }, {
+            "count": 0,
+            "page": "result06.html"
+        }
+	]
+}
